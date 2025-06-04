@@ -1,0 +1,60 @@
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
+API Response: 
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
+API Response: 
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
+API Response: 
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
+API Response: 
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
+API Response: 
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
+Loaded env:
+API Key: ptlc_ulbH2YZ2uuILictXB7KN7dFsrfeUn5JUK6xOuVzsNhn
+UUID: 57e38645-63c8-4c58-873c-f621ec1ddfd4 #UUID for the Kodoku server
+URL: https://panel.ultraservers.com
+
