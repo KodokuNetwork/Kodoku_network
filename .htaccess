@@ -1,0 +1,25 @@
+
+# Gunakan PHP 8.1 (MultiPHP Handler dari cPanel)
+<FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
+    SetHandler application/x-httpd-alt-php81___lsphp
+</FilesMatch>
+
+# Redirect otomatis ke HTTPS
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [L,R=301]
+
+# Tampilkan Error PHP (jika server mengizinkan)
+php_flag display_errors On
+php_value error_reporting 32767
+
+# Proteksi file .env agar tidak bisa diakses
+<FilesMatch "^\.env$">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+<IfModule mod_mime.c>
+  AddType font/woff2 .woff2
+  AddType font/ttf .ttf
+</IfModule>

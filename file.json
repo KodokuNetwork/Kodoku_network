@@ -1,0 +1,12 @@
+{
+  "version": "v2.0.1",
+  "title": "Changelog Kodoku v2.1.1",
+  "subtitle": "Minor fixes",
+  "updates": [
+    "Changed Potatoes -> Baked carrot with $30",
+    "Fixes /rtp still cooldown on portal",
+    "Enabled Leaf Decay on world",
+    "Fixes /quests",
+    "Update quests reset at 5 AM GMT+7 WIB"
+  ]
+}

@@ -1,0 +1,78 @@
+[09-Jun-2025 12:36:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 's840_kodoku_luckperms.news' doesn't exist in /home/kodokumy/public_html/admin/dashboard.php:65
+Stack trace:
+#0 /home/kodokumy/public_html/admin/dashboard.php(65): mysqli->query()
+#1 {main}
+  thrown in /home/kodokumy/public_html/admin/dashboard.php on line 65
+[09-Jun-2025 12:41:10 UTC] PHP Warning:  Undefined variable $user in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:41:10 UTC] PHP Warning:  Undefined variable $pass in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:41:10 UTC] PHP Warning:  Undefined variable $db in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:41:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kodokumy'@'brescia.id.rapidplex.com' (using password: NO) in /home/kodokumy/public_html/config/database.php:80
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(80): mysqli->__construct()
+#1 /home/kodokumy/public_html/admin/dashboard.php(10): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 13:07:50 UTC] PHP Warning:  Undefined variable $conn in /home/kodokumy/public_html/admin/dashboard.php on line 65
+[09-Jun-2025 13:07:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/admin/dashboard.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/admin/dashboard.php on line 65
+[09-Jun-2025 13:13:46 UTC] PHP Warning:  move_uploaded_file(../assets/img/news/jungle tileset.png): Failed to open stream: No such file or directory in /home/kodokumy/public_html/admin/dashboard.php on line 59
+[09-Jun-2025 13:13:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php4CvMKD&quot; to &quot;../assets/img/news/jungle tileset.png&quot; in /home/kodokumy/public_html/admin/dashboard.php on line 59
+[09-Jun-2025 13:21:44 UTC] PHP Warning:  move_uploaded_file(../assets/img/news/jungle tileset.png): Failed to open stream: No such file or directory in /home/kodokumy/public_html/admin/dashboard.php on line 59
+[09-Jun-2025 13:21:44 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpNTr8jo&quot; to &quot;../assets/img/news/jungle tileset.png&quot; in /home/kodokumy/public_html/admin/dashboard.php on line 59
+[09-Jun-2025 13:29:39 UTC] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/admin/dashboard.php on line 2
+[09-Jun-2025 13:29:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kodokumy/public_html/admin/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/admin/dashboard.php on line 2
+[09-Jun-2025 13:29:56 UTC] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/admin/dashboard.php on line 2
+[09-Jun-2025 13:29:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kodokumy/public_html/admin/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/admin/dashboard.php on line 2
+[09-Jun-2025 13:57:15 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/kodokumy/public_html/admin/dashboard.php on line 98
+[09-Jun-2025 14:14:48 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/kodokumy/public_html/admin/dashboard.php on line 98
+[09-Jun-2025 14:17:45 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/kodokumy/public_html/admin/dashboard.php on line 98
+[09-Jun-2025 14:27:06 UTC] PHP Warning:  move_uploaded_file(/home/kodokumy/public_html/admin/../assets/img/news/Cuplikan layar 2024-10-14 214336.png): Failed to open stream: No such file or directory in /home/kodokumy/public_html/admin/dashboard.php on line 87
+[09-Jun-2025 14:27:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpnPdPN5&quot; to &quot;/home/kodokumy/public_html/admin/../assets/img/news/Cuplikan layar 2024-10-14 214336.png&quot; in /home/kodokumy/public_html/admin/dashboard.php on line 87
+[09-Jun-2025 14:27:06 UTC] PHP Warning:  getimagesize(/home/kodokumy/public_html/admin/../assets/img/news/Cuplikan layar 2024-10-14 214336.png): Failed to open stream: No such file or directory in /home/kodokumy/public_html/admin/dashboard.php on line 12
+[10-Jun-2025 13:30:35 UTC] PHP Warning:  require_once(/home/kodokumy/public_html/admin/config/env.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/admin/admin.php on line 5
+[10-Jun-2025 13:30:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kodokumy/public_html/admin/config/env.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kodokumy/public_html/admin/admin.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/admin/admin.php on line 5
+[10-Jun-2025 13:34:53 UTC] PHP Warning:  require_once(/home/kodokumy/public_html/admin/env.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/admin/admin.php on line 5
+[10-Jun-2025 13:34:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kodokumy/public_html/admin/env.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kodokumy/public_html/admin/admin.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/admin/admin.php on line 5
+[10-Jun-2025 13:35:04 UTC] PHP Warning:  require_once(/home/kodokumy/public_html/admin../env.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/admin/admin.php on line 5
+[10-Jun-2025 13:35:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kodokumy/public_html/admin../env.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kodokumy/public_html/admin/admin.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/admin/admin.php on line 5
+[10-Jun-2025 13:35:24 UTC] PHP Warning:  require_once(/home/kodokumy/public_html/admin/../env.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/admin/admin.php on line 5
+[10-Jun-2025 13:35:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kodokumy/public_html/admin/../env.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kodokumy/public_html/admin/admin.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/admin/admin.php on line 5
+[10-Jun-2025 13:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadEnv() in /home/kodokumy/public_html/admin/admin.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/admin/admin.php on line 6
+[10-Jun-2025 15:14:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kodokumy_news.redeem_codes' doesn't exist in /home/kodokumy/public_html/admin/dashboard.php:239
+Stack trace:
+#0 /home/kodokumy/public_html/admin/dashboard.php(239): mysqli->query()
+#1 {main}
+  thrown in /home/kodokumy/public_html/admin/dashboard.php on line 239
+[10-Jun-2025 15:14:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kodokumy_news.redeem_codes' doesn't exist in /home/kodokumy/public_html/admin/dashboard.php:239
+Stack trace:
+#0 /home/kodokumy/public_html/admin/dashboard.php(239): mysqli->query()
+#1 {main}
+  thrown in /home/kodokumy/public_html/admin/dashboard.php on line 239
+[10-Jun-2025 15:16:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kodokumy_news.redeem_codes' doesn't exist in /home/kodokumy/public_html/admin/dashboard.php:239
+Stack trace:
+#0 /home/kodokumy/public_html/admin/dashboard.php(239): mysqli->query()
+#1 {main}
+  thrown in /home/kodokumy/public_html/admin/dashboard.php on line 239

@@ -1,0 +1,378 @@
+[09-Jun-2025 06:41:54 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/index.php on line 2
+[09-Jun-2025 06:41:54 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/index.php on line 2
+[09-Jun-2025 06:41:54 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kodokumy/public_html/index.php on line 2
+[09-Jun-2025 06:41:54 UTC] PHP Warning:  include(includes/scripts.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/index.php on line 76
+[09-Jun-2025 06:41:54 UTC] PHP Warning:  include(includes/scripts.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/index.php on line 76
+[09-Jun-2025 06:41:54 UTC] PHP Warning:  include(): Failed opening 'includes/scripts.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kodokumy/public_html/index.php on line 76
+[09-Jun-2025 06:42:03 UTC] PHP Warning:  require(config/database.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/login_process.php on line 5
+[09-Jun-2025 06:42:03 UTC] PHP Warning:  require(config/database.php): Failed to open stream: No such file or directory in /home/kodokumy/public_html/login_process.php on line 5
+[09-Jun-2025 06:42:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kodokumy/public_html/login_process.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/login_process.php on line 5
+[09-Jun-2025 06:47:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(5): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 06:47:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(5): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 06:58:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(5): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 06:58:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(5): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 06:58:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(5): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 06:59:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/store.php(8): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:03:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(5): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:03:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(5): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:03:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/store.php(8): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:04:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/store.php(8): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:04:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/store.php(8): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:04:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/store.php(8): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:10:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:16:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:16:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:16:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:22:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:29:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:30:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:36:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:36:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 07:37:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 08:12:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/store.php(8): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 09:47:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 09:48:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 09:48:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 09:48:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 09:48:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to MySQL server on '45.142.28.7:3306' (111) in /home/kodokumy/public_html/config/database.php:13
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(13): mysqli->__construct()
+#1 /home/kodokumy/public_html/login_process.php(11): require_once('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 13
+[09-Jun-2025 10:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/login_process.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/login_process.php on line 62
+[09-Jun-2025 10:17:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/login_process.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/login_process.php on line 62
+[09-Jun-2025 10:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/login_process.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/login_process.php on line 62
+[09-Jun-2025 10:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/login_process.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/login_process.php on line 62
+[09-Jun-2025 10:24:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/login_process.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/login_process.php on line 56
+[09-Jun-2025 10:24:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/login_process.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/login_process.php on line 56
+[09-Jun-2025 10:25:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/login_process.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/login_process.php on line 56
+[09-Jun-2025 12:14:31 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:14:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:16:47 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:17:49 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:18:49 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:18:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:19:18 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:19:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:20:20 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:20:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:23:18 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:23:48 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:24:18 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:24:48 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:24:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:25:43 UTC] PHP Warning:  Undefined variable $pdo in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:25:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kodokumy/public_html/store.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/store.php on line 71
+[09-Jun-2025 12:41:31 UTC] PHP Warning:  Undefined variable $user in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:41:31 UTC] PHP Warning:  Undefined variable $pass in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:41:31 UTC] PHP Warning:  Undefined variable $db in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:41:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kodokumy'@'brescia.id.rapidplex.com' (using password: NO) in /home/kodokumy/public_html/config/database.php:80
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(80): mysqli->__construct()
+#1 /home/kodokumy/public_html/store.php(8): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:42:01 UTC] PHP Warning:  Undefined variable $user in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:42:01 UTC] PHP Warning:  Undefined variable $pass in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:42:01 UTC] PHP Warning:  Undefined variable $db in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:42:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kodokumy'@'brescia.id.rapidplex.com' (using password: NO) in /home/kodokumy/public_html/config/database.php:80
+Stack trace:
+#0 /home/kodokumy/public_html/config/database.php(80): mysqli->__construct()
+#1 /home/kodokumy/public_html/store.php(8): require('/home/kodokumy/...')
+#2 {main}
+  thrown in /home/kodokumy/public_html/config/database.php on line 80
+[09-Jun-2025 12:59:30 UTC] PHP Warning:  Undefined variable $conn in /home/kodokumy/public_html/login_process.php on line 55
+[09-Jun-2025 12:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/kodokumy/public_html/login_process.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/login_process.php on line 55
+[09-Jun-2025 12:59:35 UTC] PHP Warning:  Undefined variable $conn in /home/kodokumy/public_html/login_process.php on line 55
+[09-Jun-2025 12:59:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/kodokumy/public_html/login_process.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/login_process.php on line 55
+[09-Jun-2025 13:20:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/news_detail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/news_detail.php on line 10
+[09-Jun-2025 13:21:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/news_detail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/news_detail.php on line 10
+[09-Jun-2025 13:25:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/news_detail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/news_detail.php on line 10
+[09-Jun-2025 15:01:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/kodokumy/public_html/news_detail.php on line 50
+[09-Jun-2025 15:11:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/kodokumy/public_html/news_detail.php on line 50
+[09-Jun-2025 17:15:59 UTC] PHP Warning:  Undefined array key "tag" in /home/kodokumy/public_html/store.php on line 41
+[09-Jun-2025 17:15:59 UTC] PHP Warning:  Undefined array key "tag" in /home/kodokumy/public_html/store.php on line 41
+[09-Jun-2025 17:15:59 UTC] PHP Warning:  Undefined array key "tag" in /home/kodokumy/public_html/store.php on line 41
+[09-Jun-2025 17:15:59 UTC] PHP Warning:  Undefined array key "tag" in /home/kodokumy/public_html/store.php on line 41
+[09-Jun-2025 17:15:59 UTC] PHP Warning:  Undefined array key "tag" in /home/kodokumy/public_html/store.php on line 41
+[09-Jun-2025 17:15:59 UTC] PHP Warning:  Undefined array key "tag" in /home/kodokumy/public_html/store.php on line 41
+[09-Jun-2025 17:15:59 UTC] PHP Warning:  Undefined array key "tag" in /home/kodokumy/public_html/store.php on line 41
+[09-Jun-2025 17:15:59 UTC] PHP Warning:  Undefined array key "tag" in /home/kodokumy/public_html/store.php on line 41
+[09-Jun-2025 17:15:59 UTC] PHP Warning:  Undefined array key "tag" in /home/kodokumy/public_html/store.php on line 41
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Undefined variable $error in /home/kodokumy/public_html/process_buy.php on line 1
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Undefined variable $error in /home/kodokumy/public_html/process_buy.php on line 10
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Undefined variable $purchase_data in /home/kodokumy/public_html/process_buy.php on line 11
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kodokumy/public_html/process_buy.php on line 11
+[10-Jun-2025 16:04:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kodokumy/public_html/process_buy.php on line 11
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Undefined variable $purchase_data in /home/kodokumy/public_html/process_buy.php on line 12
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kodokumy/public_html/process_buy.php on line 12
+[10-Jun-2025 16:04:13 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/kodokumy/public_html/process_buy.php on line 12
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Undefined variable $purchase_data in /home/kodokumy/public_html/process_buy.php on line 16
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kodokumy/public_html/process_buy.php on line 16
+[10-Jun-2025 16:04:13 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/kodokumy/public_html/process_buy.php on line 16
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Undefined variable $purchase_data in /home/kodokumy/public_html/process_buy.php on line 19
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kodokumy/public_html/process_buy.php on line 19
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Undefined variable $item_id in /home/kodokumy/public_html/process_buy.php on line 28
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Undefined variable $redeem_code in /home/kodokumy/public_html/process_buy.php on line 31
+[10-Jun-2025 16:04:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kodokumy/public_html/process_buy.php on line 31
+[10-Jun-2025 16:04:13 UTC] PHP Warning:  Undefined variable $error in /home/kodokumy/public_html/process_buy.php on line 36
+[10-Jun-2025 16:07:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/process_buy.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/process_buy.php on line 41
+[10-Jun-2025 16:39:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/load_more_news.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/load_more_news.php on line 10
+[10-Jun-2025 16:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/load_more_news.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/load_more_news.php on line 10
+[10-Jun-2025 16:42:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/load_more_news.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/load_more_news.php on line 10
+[10-Jun-2025 16:43:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/load_more_news.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/load_more_news.php on line 10
+[10-Jun-2025 16:46:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/load_more_news.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/load_more_news.php on line 12
+[10-Jun-2025 16:46:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/load_more_news.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/load_more_news.php on line 13
+[10-Jun-2025 16:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/load_more_news.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/load_more_news.php on line 13
+[10-Jun-2025 16:47:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/load_more_news.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/load_more_news.php on line 13
+[10-Jun-2025 16:48:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/load_more_news.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/load_more_news.php on line 13
+[10-Jun-2025 16:49:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/kodokumy/public_html/load_more_news.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kodokumy/public_html/load_more_news.php on line 13
+[10-Jun-2025 17:26:46 UTC] PHP Warning:  Undefined variable $entry in /home/kodokumy/public_html/news.php on line 132
+[10-Jun-2025 17:26:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kodokumy/public_html/news.php on line 132
+[10-Jun-2025 17:26:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kodokumy/public_html/news.php on line 132

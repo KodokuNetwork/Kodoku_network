@@ -7,7 +7,6 @@
         Need any help? We really appreciate your advice and suggestion!
       </span>
     </div>
-
     <!-- Right: Contact + Icons -->
     <div class="d-flex align-items-center gap-3">
       <span style="color: rgba(255,255,255,0.75); font-style: italic;">Support the server ❤️</span>
@@ -22,7 +21,6 @@
   style="position: fixed; bottom: 30px; right: 30px; width: 60px; height: 60px; z-index: 9999;">
   💖
 </button>
-
 <!-- Donation Modal -->
 <div class="modal fade" id="donationModal" tabindex="-1" aria-labelledby="donationModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered">
@@ -39,34 +37,28 @@
         <input type="number" class="form-control" id="amount" name="amount" min="15000" required placeholder="e.g. 15000">
         <small class="text-muted d-block mt-1">Payments are processed securely via Midtrans.</small>
       </div>
-
       <div class="modal-footer">
         <button type="submit" class="btn btn-success">Donate</button>
       </div>
     </form>
   </div>
 </div>
-
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-
 <!-- Snap.js + Donation Script -->
-<script src="https://app.sandbox.midtrans.com/snap/snap.js" data-client-key="<?= getenv('MIDTRANS_CLIENT_KEY') ?>"></script>
+<script src="https://app.midtrans.com/snap/snap.js" data-client-key="<?= getenv('MIDTRANS_CLIENT_KEY') ?>"></script>
 <script>
   document.getElementById('donateBtn').addEventListener('click', () => {
     const modal = new bootstrap.Modal(document.getElementById('donationModal'));
     modal.show();
   });
-
   document.getElementById('donationForm').addEventListener('submit', function(e) {
     e.preventDefault();
     const amount = parseInt(document.getElementById('amount').value);
-
     if (amount < 15000) {
       alert("Minimum donation is Rp 15.000");
       return;
     }
-
     fetch('donation_process.php', {
         method: 'POST',
         headers: {
@@ -96,3 +88,6 @@
       });
   });
 </script>
+</body>
+
+</html>

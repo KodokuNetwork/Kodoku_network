@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'DNF Bit Bit';
+  src: url('DNFBitBitTTF.woff2') format('woff2'),
+       url('dnf-bit-bit.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'DIN NEXT W1G';
+  src: url('DINNextW1G.woff2') format('woff2'),
+       url('dinnextw1g.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

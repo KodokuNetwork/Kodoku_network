@@ -1,71 +1,83 @@
-[2025-05-19 20:04:18] Username not found in database: mirachelyn
-[2025-05-19 20:04:46] Username not found in database: mirachelyn
-[2025-05-19 20:04:58] Bedrock name invalid format: mirachelyn
-[2025-05-19 20:09:59] Username not found in database: mirachelyn
-[2025-05-20 09:34:57] Username not found in database: JukianaaAzura
-[2025-05-23 09:33:03] Username not found in database: JuliusWuwung
-[2025-05-24 13:10:45] Pterodactyl command sent for Senn0_
-[2025-05-24 13:10:50] Pterodactyl command sent for Senn0_
-[2025-05-24 13:59:33] Pterodactyl command sent for Senn0_
-[2025-05-24 14:15:30] Pterodactyl command sent for Senn0_
-[2025-05-24 14:15:42] Username not found in database: JukianaAzura
-[2025-05-24 14:15:45] Username not found in database: JukianaAzura
-[2025-05-24 14:15:52] Username not found in database: JukianaAzura
-[2025-05-24 14:16:48] Username not found in database: JukianaAzura
-[2025-05-24 14:16:55] Username not found in database: JuliusWuwung
-[2025-05-24 14:17:05] Java name invalid format: .Senn0_
-[2025-05-24 14:17:09] Bedrock name invalid format: Senn0_
-[2025-05-24 14:17:14] Pterodactyl command sent for Senn0_
-[2025-05-25 08:10:44] Pterodactyl command sent for Senn0_
-[2025-05-25 08:30:52] Pterodactyl command sent for Senn0_
-[2025-05-25 08:33:14] Pterodactyl command sent for Senn0_
-[2025-05-25 08:39:28] Pterodactyl command sent for Senn0_
-[2025-05-25 08:42:46] Pterodactyl command sent for Senn0_
-[2025-05-25 08:43:28] Pterodactyl command sent for Senn0_
-[2025-05-25 08:44:17] Pterodactyl command sent for Senn0_
-[2025-05-25 08:52:48] Pterodactyl command sent for JukianaAzura
-[2025-05-25 09:11:39] Pterodactyl command sent for JukianaAzura
-[2025-05-25 09:17:25] Pterodactyl command sent for JukianaAzura
-[2025-05-25 09:20:03] Bedrock name invalid format: JukianaAzura
-[2025-05-25 09:20:11] Pterodactyl command sent for JukianaAzura
-[2025-05-25 09:20:25] Bedrock name invalid format: JukianaAzura
-[2025-05-25 09:20:31] Java name invalid format: .JukianaAzura
-[2025-05-25 09:20:38] Bedrock name invalid format: JukianaAzura
-[2025-05-25 09:20:46] Username not found in database: .JukianaAzura
-[2025-05-25 09:21:04] Pterodactyl command sent for JukianaAzura
-[2025-05-25 16:57:11] Pterodactyl command sent for JukianaAzura
-[2025-05-26 05:00:03] Pterodactyl command sent for JukianaAzura
-[2025-05-28 10:38:02] Pterodactyl command sent for JukianaAzura
-[2025-05-28 10:42:36] Pterodactyl command sent for JukianaAzura
-[2025-05-28 11:09:20] Pterodactyl command sent for JukianaAzura
-[2025-05-28 15:10:03] Pterodactyl command sent for JukianaAzura
-[2025-05-28 16:28:29] Pterodactyl command sent for Senn0_
-[2025-05-30 09:13:36] Pterodactyl command sent for Senn0_
-[2025-05-30 09:15:22] Bedrock name invalid format: JukianaAzura
-[2025-05-30 09:15:52] Pterodactyl command sent for Senn0_
-[2025-05-30 10:08:36] Pterodactyl command sent for JukianaAzura
-[2025-05-30 16:04:08] Pterodactyl command sent for JukianaAzura
-[2025-05-30 16:15:08] Pterodactyl command sent for JukianaAzura
-[2025-05-30 17:10:27] Pterodactyl command sent for Senn0_
-[2025-06-01 13:35:33] Pterodactyl command sent for JukianaAzura
-[2025-06-01 13:36:01] Bedrock name invalid format: Senn0_
-[2025-06-01 13:37:08] Bedrock name invalid format: JukianaAzura
-[2025-06-01 13:49:36] Pterodactyl command sent for JukianaAzura
-[2025-06-01 13:58:35] Pterodactyl command sent for JukianaAzura
-[2025-06-01 14:01:26] Bedrock name invalid format: JukianaAzura
-[2025-06-01 14:01:30] Bedrock name invalid format: Senn0_
-[2025-06-01 14:02:42] Username not found in database: JuliusWuwung
-[2025-06-01 14:02:46] Bedrock name invalid format: JukianaAzura
-[2025-06-01 14:02:52] Pterodactyl command sent for JukianaAzura
-[2025-06-01 14:20:35] Pterodactyl command sent for JukianaAzura
-[2025-06-01 18:16:39] Pterodactyl command sent for JukianaAzura
-[2025-06-01 18:37:07] Pterodactyl command sent for JukianaAzura
-[2025-06-01 18:54:16] Pterodactyl command sent for JukianaAzura
-[2025-06-01 19:01:51] Pterodactyl command sent for .Starfruit6142
-[2025-06-01 19:06:23] Pterodactyl command sent for JukianaAzura
-[2025-06-01 19:11:08] Pterodactyl command sent for JukianaAzura
-[2025-06-01 19:13:38] Username not found in database: Starfruit
-[2025-06-01 19:13:46] Pterodactyl command sent for Senn0_
-[2025-06-01 19:32:54] Pterodactyl command sent for JukianaAzura
-[2025-06-01 19:52:02] Pterodactyl command sent for JukianaAzura
-[2025-06-02 06:59:18] Empty username submitted.
+[2025-06-09 10:29:49] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 10:30:10] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 10:30:38] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 10:31:59] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 10:35:51] Empty username submitted.
+[2025-06-09 10:35:54] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 11:30:33] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 11:38:19] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 11:59:18] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 12:18:17] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 12:18:19] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 12:18:47] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 12:19:19] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 12:19:50] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 12:49:39] Database error: Table 'kodokumy_news.luckperms_players' doesn't exist
+[2025-06-09 12:49:41] Database error: Table 'kodokumy_news.luckperms_players' doesn't exist
+[2025-06-09 12:49:43] Database error: Table 'kodokumy_news.luckperms_players' doesn't exist
+[2025-06-09 12:49:50] Empty username submitted.
+[2025-06-09 12:49:50] Empty username submitted.
+[2025-06-09 12:49:50] Empty username submitted.
+[2025-06-09 12:49:50] Empty username submitted.
+[2025-06-09 12:49:51] Empty username submitted.
+[2025-06-09 12:57:25] Database error: Table 'kodokumy_news.luckperms_players' doesn't exist
+[2025-06-09 12:57:37] Database error: Table 'kodokumy_news.luckperms_players' doesn't exist
+[2025-06-09 12:57:39] Database error: Table 'kodokumy_news.luckperms_players' doesn't exist
+[2025-06-09 13:04:03] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 13:04:07] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 13:04:11] Java name invalid format: .mirachelyn
+[2025-06-09 13:04:14] Login success: .mirachelyn (00000000-0000-0000-0009-01f01ae851fc), group: onyx
+[2025-06-09 13:04:21] Java name invalid format: .JukianaAzura
+[2025-06-09 13:04:34] Username not found in database: .juliusW04
+[2025-06-09 13:04:35] Empty username submitted.
+[2025-06-09 13:04:37] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 13:07:26] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 13:07:57] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 13:11:57] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 13:20:26] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 13:33:08] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 14:14:38] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 14:16:50] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 14:19:28] Username not found in database: server.jar
+[2025-06-09 14:19:41] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 14:19:49] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 14:46:05] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 15:09:30] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 15:14:57] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-09 16:10:41] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 16:12:10] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 16:19:43] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 16:26:16] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 16:27:09] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-09 16:27:51] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-10 04:28:33] Login success: 4nv_ (dd4b3446-1218-49ca-b5b9-b6dda160c473), group: onyx
+[2025-06-10 06:56:06] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-10 06:57:34] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-10 13:05:26] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-10 13:29:15] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-10 13:45:12] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-10 15:27:45] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-10 15:43:23] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-10 16:09:25] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-10 16:09:31] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-10 16:27:32] Empty username submitted.
+[2025-06-10 16:27:33] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-10 17:45:12] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-10 18:50:36] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-10 19:21:56] Login success: etlwn (e69ce940-abce-41cc-8e06-5f8c80da93c1), group: admin
+[2025-06-11 04:09:30] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 04:43:19] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 08:57:49] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-11 09:06:32] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 11:25:23] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 15:19:05] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-11 15:27:45] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-11 15:28:51] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-11 15:37:40] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 16:31:52] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-11 16:33:10] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 16:34:23] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 16:34:23] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 16:39:29] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 17:30:05] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-11 17:43:52] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
