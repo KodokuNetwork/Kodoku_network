@@ -76,3 +76,8 @@ Stack trace:
 #0 /home/kodokumy/public_html/admin/dashboard.php(239): mysqli->query()
 #1 {main}
   thrown in /home/kodokumy/public_html/admin/dashboard.php on line 239
+[11-Jun-2025 19:24:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 's790_news.news' doesn't exist in /home/kodokumy/public_html/admin/dashboard.php:79
+Stack trace:
+#0 /home/kodokumy/public_html/admin/dashboard.php(79): mysqli->query()
+#1 {main}
+  thrown in /home/kodokumy/public_html/admin/dashboard.php on line 79

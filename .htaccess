@@ -1,11 +1,12 @@
-
 # Gunakan PHP 8.1 (MultiPHP Handler dari cPanel)
 <FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
     SetHandler application/x-httpd-alt-php81___lsphp
 </FilesMatch>
 
-# Redirect otomatis ke HTTPS
+# Turn on URL rewriting
 RewriteEngine On
+
+# Redirect otomatis ke HTTPS
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [L,R=301]
 
@@ -15,11 +16,74 @@ php_value error_reporting 32767
 
 # Proteksi file .env agar tidak bisa diakses
 <FilesMatch "^\.env$">
-  Order allow,deny
-  Deny from all
+    Order allow,deny
+    Deny from all
 </FilesMatch>
 
 <IfModule mod_mime.c>
-  AddType font/woff2 .woff2
-  AddType font/ttf .ttf
+    AddType font/woff2 .woff2
+    AddType font/ttf .ttf
 </IfModule>
+
+# Specific Redirect for kodoku.my.id (Ensure this is desired)
+RewriteCond %{HTTP_HOST} ^kodoku\.my\.id$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.kodoku\.my\.id$
+RewriteRule ^public_html$ "https\:\/\/store\.kodoku\.me\/" [R=301,L]
+
+
+# --- Start of PHP Extension Removal and Custom Index Rules ---
+
+# Rule 1: Redirect index.php (or root) to /loginsomething
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(index\.php)?/?($|\ |\?)
+RewriteRule ^(index\.php)?/?$ /login [R=301,L]
+
+
+# Rule 2: Handle /loginsomething by internally serving index.php
+RewriteRule ^login/?$ index.php [L]
+
+
+# Rule 3: Unless directory, remove trailing slash (general rule)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+
+# Rule 4: FIX FOR LOGIN FORMS: Exclude POST requests from the .php extension removal redirect
+RewriteCond %{REQUEST_METHOD} !POST
+# Rule 5: Redirect requests with .php extension to the extensionless URL (for GET requests)
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+)\.php($|\ )
+RewriteRule ^ /%1 [R=301,L]
+
+# --- NEW RULES FOR NEWS DETAIL PAGE ---
+
+# External Redirect: Redirect old URL to pretty URL
+# This sends the user to the new URL in their browser
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /news_detail\.php\?id=([0-9]+) [NC]
+RewriteRule ^ /news/%1? [R=301,L]
+
+# Internal Rewrite: Rewrite pretty URL back to old URL
+# This processes the pretty URL on the server-side
+RewriteRule ^news/([0-9]+)/?$ news_detail.php?id=$1 [L,NC]
+
+# --- END NEW RULES ---
+
+# --- NEW RULES FOR BUY/PROCESS PAGES ---
+
+# Internal Rewrite for /buy (handles store.php form submission)
+# This MUST be present if your form actions point to /buy
+RewriteRule ^buy/?$ process_buy.php [L,NC]
+
+# Internal Rewrite for process-payment (handles AJAX calls)
+RewriteRule ^process-payment/?$ process_payment.php [L,NC]
+
+# Internal Rewrite for remove-item (handles form submissions)
+RewriteRule ^remove-item/?$ remove_item.php [L,NC] # Added based on your form action in process_buy.php
+
+# --- END NEW RULES FOR BUY/PROCESS PAGES ---
+
+
+# Rule 6: Handle all other requests not containing a file extension
+# Check if a PHP file with that name exists (e.g., /store -> store.php)
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# --- End of PHP Extension Removal and Custom Index Rules ---

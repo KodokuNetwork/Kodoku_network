@@ -81,3 +81,107 @@
 [2025-06-11 16:39:29] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
 [2025-06-11 17:30:05] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
 [2025-06-11 17:43:52] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 19:21:46] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 19:23:21] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-11 19:27:51] Empty username submitted.
+[2025-06-11 19:27:53] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-12 06:18:24] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-13 06:34:47] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-13 06:53:19] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-13 06:54:01] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-13 06:56:00] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-14 01:39:05] Login success: zoecantik (70ab1158-2d69-4433-96e6-1c96d6518c6a), group: gold
+[2025-06-14 02:13:19] Bedrock name invalid format: Tes123
+[2025-06-14 04:55:57] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-14 04:56:02] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-14 04:56:03] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-14 12:11:06] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: developer
+[2025-06-14 12:26:45] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-14 12:33:30] Bedrock name invalid format: Senn0_
+[2025-06-14 12:33:46] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-14 13:02:32] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-14 14:26:45] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-14 15:32:02] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-14 17:55:57] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-15 13:27:02] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-15 14:15:38] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 16:01:09] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 16:02:11] Username not found in database: Josvan
+[2025-06-15 16:03:22] Empty username submitted.
+[2025-06-15 16:03:27] Username not found in database: Josvan
+[2025-06-15 16:03:30] Bedrock name invalid format: Josvan
+[2025-06-15 16:03:43] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 16:05:25] Login success: jukianaazura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default
+[2025-06-15 16:53:07] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 16:53:17] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 16:53:51] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 16:54:30] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-15 16:54:39] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-15 16:54:49] Bedrock name invalid format: starfruit6142
+[2025-06-15 16:54:56] Login success: .starfruit6142 (00000000-0000-0000-0009-01f5dfab9f47), group: diamond, version: bedrock
+[2025-06-15 16:56:13] Auto-corrected Bedrock name: starfruit6142 to .starfruit6142
+[2025-06-15 16:56:13] Login success: .starfruit6142 (00000000-0000-0000-0009-01f5dfab9f47), group: diamond, version: bedrock
+[2025-06-15 16:56:21] Login success: .starfruit6142 (00000000-0000-0000-0009-01f5dfab9f47), group: diamond, version: bedrock
+[2025-06-15 16:56:28] Login success: .starfruit6142 (00000000-0000-0000-0009-01f5dfab9f47), group: diamond, version: bedrock
+[2025-06-15 16:59:12] Invalid access method to login_process.php
+[2025-06-15 16:59:16] Invalid access method to login_process.php
+[2025-06-15 16:59:33] Invalid access method to login_process.php
+[2025-06-15 16:59:50] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 17:01:36] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 17:02:41] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-15 17:03:40] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 17:04:17] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 17:04:38] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 17:04:50] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default
+[2025-06-15 17:05:15] Login success: senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-15 17:06:06] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-15 17:06:32] Login success: .starfruit6142 (00000000-0000-0000-0009-01f5dfab9f47), group: diamond, version: bedrock
+[2025-06-15 17:06:40] Auto-corrected Bedrock name: starfruit6142 to .starfruit6142
+[2025-06-15 17:06:40] Login success: .starfruit6142 (00000000-0000-0000-0009-01f5dfab9f47), group: diamond, version: bedrock
+[2025-06-15 17:07:21] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-15 17:08:45] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-15 17:10:37] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-15 17:10:39] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-15 17:12:33] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-15 17:16:03] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-15 17:17:18] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-15 17:26:02] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 05:31:49] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-16 06:06:59] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-16 06:07:20] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-16 12:44:58] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 12:45:37] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 12:46:26] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 12:46:45] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 14:59:48] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 15:34:16] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 15:40:58] Empty username submitted.
+[2025-06-16 15:41:00] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-16 16:01:57] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 16:08:16] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 16:09:44] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 16:17:32] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-16 16:20:41] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-17 16:35:20] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-18 12:07:47] Empty username submitted.
+[2025-06-18 12:07:52] Empty username submitted.
+[2025-06-18 12:07:53] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-18 12:32:37] Mojang API lookup failed for Java user: latipzk
+[2025-06-18 12:32:37] Login success: latipzk (672a3bdd-8946-3d9e-b83d-36d8b82a6a30), group: default, version: java
+[2025-06-18 14:13:20] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-18 14:13:50] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-18 14:20:00] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-18 14:25:41] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-18 15:12:20] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: default, version: java
+[2025-06-18 15:13:52] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-18 15:17:55] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-18 15:57:45] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-18 17:40:49] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-18 18:08:30] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-18 18:42:49] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-19 21:21:01] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: media, version: java
+[2025-06-20 10:55:01] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java
+[2025-06-20 11:02:30] Login success: Senn0_ (47a2ac44-8654-460c-9790-3a29220cdc93), group: media, version: java
+[2025-06-20 11:12:36] Auto-corrected Bedrock name: JukianaAzura to .JukianaAzura
+[2025-06-20 11:12:36] Username not found in LuckPerms DB: .jukianaazura (Original Input: JukianaAzura)
+[2025-06-20 11:12:39] Login success: JukianaAzura (eb13ef04-4c01-4f63-b0df-43510b455adb), group: default, version: java

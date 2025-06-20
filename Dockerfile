@@ -1,11 +1,13 @@
-FROM php:8.1-apache
-# Install ekstensi PHP yang umum dipakai
-RUN docker-php-ext-install mysqli pdo pdo_mysql
-# Aktifkan .htaccess jika kamu butuh
-RUN a2enmod rewrite
-# Copy semua file ke dalam container
-COPY . /var/www/html/
-# Atur permission supaya Apache bisa akses
-RUN chown -R www-data:www-data /var/www/html
-# Direktori kerja
-WORKDIR /var/www/html
+FROM php:8.1-cli
+
+# Set direktori kerja dalam container
+WORKDIR /app
+
+# Salin semua file dari project ke dalam container
+COPY . .
+
+# Jalankan PHP built-in server di port 8000
+CMD ["php", "-S", "0.0.0.0:2083", "-t", "."]
+
+# Buka port 8000
+EXPOSE 2083

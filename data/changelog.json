@@ -1,12 +1,11 @@
 {
-    "title": "Kodoku v2.0.1.1",
+    "title": "Kodoku v2.0.2",
     "sections": [
         {
-            "heading": "Update:",
+            "heading": "Update",
             "items": [
-                "Added \/home GUI",
-                "Bug Fixes on internal system",
-                "Optimization"
+                "Added AuctionHouse",
+                "Reworked shop Miner, Farmer, Lumberjack to able set a difference between locked and unlocked!"
             ]
         }
     ]

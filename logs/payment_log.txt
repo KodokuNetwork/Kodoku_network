@@ -1,0 +1,44 @@
+[2025-06-18 12:52:09] 📝 Manual payment started | Order: ORD-MANUAL-6852b6661222f | User: JukianaAzura | Item: 555
+[2025-06-18 12:52:09] ✅ K-Bucks diberikan dengan command: credits give JukianaAzura 555
+[2025-06-18 14:13:06] ❌ Data tidak lengkap | Order: ORD-MANUAL-6852b6661222f | User: UnknownUser | Item: 0
+[2025-06-18 14:13:54] 📝 Manual payment started | Order: ORD-MANUAL-6852c9a10c97c | User: JukianaAzura | Item: 555
+[2025-06-18 14:13:54] ✅ K-Bucks diberikan dengan command: credits give JukianaAzura 555
+[2025-06-18 14:15:10] 📝 Manual payment started | Order: ORD-MANUAL-6852c9a10c97c | User: JukianaAzura | Item: 555
+[2025-06-18 14:15:10] ✅ K-Bucks diberikan dengan command: credits give JukianaAzura 555
+[2025-06-18 14:15:11] 📣 Webhook sent for order ID: ORD-MANUAL-6852c9a10c97c
+[2025-06-18 14:25:46] 📝 Manual payment processed | Order: ORD-MANUAL-6852cc68dfdb0 | User: JukianaAzura | Item: 555
+[2025-06-18 14:25:46] 📨 Webhook order dikirim ke Discord untuk ORD-MANUAL-6852cc68dfdb0
+[2025-06-18 14:27:03] 📝 Manual payment processed | Order: ORD-MANUAL-6852ccb68fd00 | User: JukianaAzura | Item: 555
+[2025-06-18 14:27:04] 📨 Webhook order dikirim ke Discord untuk ORD-MANUAL-6852ccb68fd00
+[2025-06-18 14:31:04] 📝 Manual payment processed | Order: ORD-MANUAL-6852ccb68fd00 | User: JukianaAzura | Item: 555
+[2025-06-18 14:31:04] 📨 Webhook order dikirim ke Discord untuk ORD-MANUAL-6852ccb68fd00
+[2025-06-18 14:31:28] 📝 Manual payment processed | Order: ORD-MANUAL-6852cdbfd55a1 | User: JukianaAzura | Item: 555
+[2025-06-18 14:31:29] 📨 Webhook order dikirim ke Discord untuk ORD-MANUAL-6852cdbfd55a1
+[2025-06-18 14:32:44] 📝 Manual payment processed | Order: ORD-MANUAL-6852ce0b7acf4 | User: JukianaAzura | Item: 555
+[2025-06-18 14:32:44] 📨 Webhook order dikirim ke Discord untuk ORD-MANUAL-6852ce0b7acf4
+[2025-06-18 15:12:25] 📝 Manual payment processed | Order: ORD-MANUAL-6852d756c7621 | User: Senn0_ | Item: 555
+[2025-06-18 15:12:26] 📨 Webhook order dikirim ke Discord untuk ORD-MANUAL-6852d756c7621
+[2025-06-18 15:13:56] 📝 Order dibuat | Order ID: ORD-MANUAL-6852d7b3b3418 | Player: JukianaAzura | Item: 555
+[2025-06-18 15:13:57] 📨 Webhook dikirim ke Discord untuk order ORD-MANUAL-6852d7b3b3418
+[2025-06-18 15:14:06] 📝 Order dibuat | Order ID: ORD-MANUAL-6852d756c7621 | Player: Senn0_ | Item: 555
+[2025-06-18 15:14:08] 📨 Webhook dikirim ke Discord untuk order ORD-MANUAL-6852d756c7621
+[2025-06-18 15:17:40] 📝 Order dibuat | Order ID: ORD-MANUAL-6852d7b3b3418 | Player: JukianaAzura | Item: 555
+[2025-06-18 15:17:41] 📨 Webhook dikirim ke Discord untuk order ORD-MANUAL-6852d7b3b3418
+[2025-06-18 15:17:44] 📝 Order dibuat | Order ID: ORD-MANUAL-6852d7b3b3418 | Player: JukianaAzura | Item: 555
+[2025-06-18 15:17:45] 📨 Webhook dikirim ke Discord untuk order ORD-MANUAL-6852d7b3b3418
+[2025-06-18 15:17:58] 📝 Order dibuat | Order ID: ORD-MANUAL-6852d8a594d5e | Player: JukianaAzura | Item: 555
+[2025-06-18 15:17:59] 📨 Webhook dikirim ke Discord untuk order ORD-MANUAL-6852d8a594d5e
+[2025-06-18 15:18:29] 📝 Order dibuat | Order ID: ORD-MANUAL-6852d8a594d5e | Player: JukianaAzura | Item: 555
+[2025-06-18 15:18:29] 📨 Webhook dikirim ke Discord untuk order ORD-MANUAL-6852d8a594d5e
+[2025-06-18 15:20:18] 📝 Order dibuat | Order ID: ORD-MANUAL-6852d8a594d5e | Player: JukianaAzura | Item: 555
+[2025-06-18 15:20:18] 📨 Webhook dikirim ke Discord untuk order ORD-MANUAL-6852d8a594d5e
+[2025-06-18 15:20:29] 📝 Order dibuat | Order ID: ORD-MANUAL-6852d93c9e5e3 | Player: Senn0_ | Item: 555
+[2025-06-18 15:20:30] 📨 Webhook dikirim ke Discord untuk order ORD-MANUAL-6852d93c9e5e3
+[2025-06-18 15:36:52] 📨 Webhook dikirim ke Discord untuk order MG-PR-KFDA8
+[2025-06-18 15:41:28] 📨 Webhook dikirim ke Discord untuk order ORD-MANUAL-6852d93c9e5e3
+[2025-06-18 18:05:49] ✅ Payment confirmed manually | Order: ORD-MANUAL-6852ff141d1a8 | Player: JukianaAzura | Item: 36000
+[2025-06-18 18:05:49] ✅ Command executed: credits give JukianaAzura 36000
+[2025-06-18 18:32:27] ✅ Payment confirmed manually | Order: ORD-MANUAL-6852ff141d1a8 | Player: JukianaAzura | Item: 36000
+[2025-06-18 18:32:28] ✅ Command executed: credits give JukianaAzura 36000
+[2025-06-18 18:44:47] ✅ Payment confirmed manually | Order: ORD-MANUAL-685308b375f7c | Player: JukianaAzura | Item: 555
+[2025-06-18 18:44:48] ✅ Command executed: credits give JukianaAzura 555

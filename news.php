@@ -1,4 +1,5 @@
 <?php
+define('BASE_URL', 'https://store.kodoku.me/');
 $bodyClass = 'store-bg';
 require_once 'config/database.php'; // untuk akses $newsConn
 

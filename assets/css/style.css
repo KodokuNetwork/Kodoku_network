@@ -437,3 +437,9 @@ body {
   font-family: 'DIN NEXT W1G', sans-serif !important;
 
 }
+
+@media (max-width: 576px) {
+  .login-container {
+    padding-top: 80px;
+  }
+}

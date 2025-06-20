@@ -1,5 +1,5 @@
 <?php
-
+define('BASE_URL', 'https://store.kodoku.me/');
 $bodyClass = 'store-bg';
 
 include 'includes/header.php';

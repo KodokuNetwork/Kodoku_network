@@ -1,27 +1,23 @@
 <footer class="text-light py-3" style="background-color: #1c1c1c; font-size: 14px;">
   <div class="container d-flex flex-column flex-md-row justify-content-between align-items-center gap-3">
-    <!-- Left: Logo + Text -->
     <div class="d-flex align-items-center gap-3">
-      <img src="assets/images/logokodoku.png" alt="Kodoku Logo" style="height: 28px; filter: brightness(0.8);">
+      <img src="<?= BASE_URL ?>assets/images/logokodoku.png" alt="Kodoku Logo" style="height: 28px; filter: brightness(0.8);">
       <span style="color: rgba(255,255,255,0.75);">
         Need any help? We really appreciate your advice and suggestion!
       </span>
     </div>
-    <!-- Right: Contact + Icons -->
     <div class="d-flex align-items-center gap-3">
       <span style="color: rgba(255,255,255,0.75); font-style: italic;">Support the server ❤️</span>
       <a href="https://discord.gg/WbafFVcVdv" class="text-decoration-none" style="color: rgba(255,255,255,0.75);">Contact Support</a>
-      <a href="https://discord.gg/WbafFVcVdv"><img src="assets/images/discord1.png" alt="Discord" style="height: 20px; opacity: 0.75;"></a>
+      <a href="https://discord.gg/WbafFVcVdv"><img src="<?= BASE_URL ?>assets/images/discord1.png" alt="Discord" style="height: 20px; opacity: 0.75;"></a>
     </div>
   </div>
 </footer>
 
-<!-- Floating Donate Button -->
 <button id="donateBtn" class="btn btn-warning rounded-circle shadow-lg"
   style="position: fixed; bottom: 30px; right: 30px; width: 60px; height: 60px; z-index: 9999;">
   💖
 </button>
-<!-- Donation Modal -->
 <div class="modal fade" id="donationModal" tabindex="-1" aria-labelledby="donationModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered">
     <form id="donationForm" class="modal-content">
@@ -43,9 +39,7 @@
     </form>
   </div>
 </div>
-<!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-<!-- Snap.js + Donation Script -->
 <script src="https://app.midtrans.com/snap/snap.js" data-client-key="<?= getenv('MIDTRANS_CLIENT_KEY') ?>"></script>
 <script>
   document.getElementById('donateBtn').addEventListener('click', () => {
@@ -59,7 +53,8 @@
       alert("Minimum donation is Rp 15.000");
       return;
     }
-    fetch('donation_process.php', {
+    // Assuming donation_process.php is at the root or correctly handled by .htaccess
+    fetch('<?= BASE_URL ?>donation_process.php', { // <--- ADDED BASE_URL HERE
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
